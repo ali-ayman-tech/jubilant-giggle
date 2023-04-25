@@ -1,3 +1,2 @@
 # jubilant-giggle
-I am editing the README file. Adding some more details about the project description.
-
+I like formula 1 and basketball
